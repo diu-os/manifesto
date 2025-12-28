@@ -44,7 +44,7 @@ sha256sum DIU_OS_Manifesto_PUBLIC_v1.pdf
 
 ## 🔗 Related
 
-- [DIU OS Main Repository](https://github.com/diu-os/diu-os)
+- [DIU OS Main Repository](https://github.com/diu-os)
 - [Documentation](https://github.com/diu-os/docs)
 
 ---
