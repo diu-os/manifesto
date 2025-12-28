@@ -50,4 +50,4 @@ sha256sum DIU_OS_Manifesto_PUBLIC_v1.pdf
 ---
 
 © 2025 DIU OS Foundation | [diu-os.dev](https://diu-os.dev)
-```
+
