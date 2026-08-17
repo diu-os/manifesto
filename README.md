@@ -1,53 +1,34 @@
-# 📜 DIU OS Technical Manifesto
+# DIU OS manifesto
 
-**Intellectual Property Declaration & Prior Art Establishment**
+Epistemic charter and prior-art record for DIU OS — **Scientific Compute Infrastructure**, not EdTech and not a DeSci protocol.
 
-[![OpenTimestamps](https://img.shields.io/badge/OpenTimestamps-Verified-green)](https://opentimestamps.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-## 🔐 Protected Innovations
+## Living text
 
-1. **Real-time CDC Architecture** — <100ms latency for scientific simulations
-2. **MCP-based AI Integration** — Vendor-agnostic LLM tutoring system
-3. **Interactive 3D Quantum Simulations** — Three.js physics visualizations
-4. **Gamified Learning with Blockchain Credentials** — NFT certificates
-5. **Plugin Architecture** — Extensible to any scientific discipline
+Read [`MANIFESTO.md`](MANIFESTO.md) (updated 12 Jul 2026). That file is the current charter.
 
-## 📄 Documents
+## Prior-art snapshot (do not treat as product spec)
 
-| File | Description |
-|------|-------------|
-| `DIU_OS_Manifesto_PUBLIC_v1.pdf` | Technical manifesto (PDF) |
-| `DIU_OS_Manifesto_PUBLIC_v1.pdf.ots` | OpenTimestamps blockchain proof |
-| `DIU_OS_Manifesto_PUBLIC_v1.docx` | Editable version |
+Release **v1.0.0** (28 Dec 2025) — PDF / DOCX / OpenTimestamps proof. Historical IP declaration only. It describes an earlier stack (CDC, MCP tutoring, NFT certificates) that is **not** what ships on [diu-os.com](https://diu-os.com).
 
-## ✅ Verification
+| File | Role |
+|------|------|
+| `MANIFESTO.md` | Current charter |
+| `DIU_OS_Manifesto_PUBLIC_v1.pdf` | Dec 2025 snapshot (also on GitHub Releases) |
+| `DIU_OS_Manifesto_PUBLIC_v1.pdf.ots` | OpenTimestamps proof for that PDF |
+| `LICENSE` | Apache-2.0 |
 
-### Verify Blockchain Timestamp
+### Verify the December snapshot
+
 ```bash
 pip install opentimestamps-client --break-system-packages
 ots verify DIU_OS_Manifesto_PUBLIC_v1.pdf.ots
 ```
 
-Or use web interface: [opentimestamps.org](https://opentimestamps.org) → "STAMP & VERIFY"
+## What this org publishes
 
-### Verify Document Integrity
-```bash
-sha256sum DIU_OS_Manifesto_PUBLIC_v1.pdf
-```
+- This manifesto (Apache-2.0)
+- [diu-contracts](https://github.com/diu-os/diu-contracts) — Stylus contracts on Arbitrum **Sepolia** (MIT)
 
-## 📅 Timeline
-
-- **Created:** December 2025
-- **Blockchain Timestamp:** Bitcoin block (see .ots file)
-- **License:** Apache 2.0
-
-## 🔗 Related
-
-- [DIU OS Main Repository](https://github.com/diu-os)
-- [Documentation](https://github.com/diu-os/docs)
-
----
-
-© 2025 DIU OS Foundation | [diu-os.dev](https://diu-os.dev)
-
+Platform source is not in `github.com/diu-os`. Product: [diu-os.com](https://diu-os.com). Contact: contact@diu-os.org
