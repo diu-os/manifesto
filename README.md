@@ -6,7 +6,7 @@ Epistemic charter and prior-art record for DIU OS — **Scientific Compute Infra
 
 ## Living text
 
-Read [`MANIFESTO.md`](MANIFESTO.md) (updated 12 Jul 2026). That file is the current charter.
+Read [`MANIFESTO.md`](MANIFESTO.md) (updated 03 Sep 2026 — slogan operationalized; Theory Context). That file is the current charter. The December 2025 PDF remains a prior-art snapshot.
 
 ## Prior-art snapshot (do not treat as product spec)
 
