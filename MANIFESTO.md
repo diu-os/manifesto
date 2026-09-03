@@ -92,6 +92,10 @@ DIU OS is built on a simple premise:
 
 > **Truth should be computed, not negotiated.**
 
+The slogan names the mission. It does not stamp an empirical run as true.
+What is computed is a **checkable status** of a claim — relative to explicit
+assumptions, the model, the computation, and the evidence.
+
 We define a new epistemic substrate where:
 
 * hypotheses are executed as simulations
@@ -257,6 +261,15 @@ We are building the conditions under which knowledge can remain trustworthy in a
 > We don’t predict truth.
 > We compute it.
 
+**Operationalization (03 Sep 2026).** The system computes a checkable status
+of a claim relative to explicit assumptions, the model, the computation, and
+the evidence — not absolute truth. A correct derivation from a model is not
+proof that the model fits the world. Empirical work has a plausibility ceiling
+(D-107 family A). Formal proof is truth-in-T: `formally_proven` relative to a
+declared Theory Context (D-107 family B). Verification (computed correctly)
+is not validation (model adequate to the world). Full slogan replacement
+(«We compute its evidential state») remains a dedicated session.
+
 ---
 
 ## Философское основание: анатомия и инварианты научного модуля
@@ -291,6 +304,12 @@ speculation / unknown). «Неизвестно» — не сбой, а науч�
 где кончается двузначная логика. Она операционализирована как поле
 epistemic_ceiling (truth ↔ plausibility) и не является предметом вкуса
 конструктора модуля.
+
+Theory Context — версионированная оболочка (язык, определения, аксиомы,
+онтология единиц, правила проверки), внутри которой осмыслен и Protocol
+приёмки, и вердикт. Смена Theory Context — новый объект, не патч старого
+рана. Protocol задаёт критерий до запуска; Theory Context задаёт, в какой
+теории этот критерий имеет смысл.
 
 ### Внешние и внутренние законы гена
 
